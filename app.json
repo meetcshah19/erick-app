@@ -24,10 +24,21 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
+      },
+      "config": {
+          "googleMaps": {
+              "apiKey": "AIzaSyBB5VtbYNkoqHZD9uPohGNszVQnSsCo5ko"
+          }
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a3ec045f-971c-4418-956d-5889ebb9fef8"
+      }
+    },
+    "owner": "meetcshah19"
   }
 }
