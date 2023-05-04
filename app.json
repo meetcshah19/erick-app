@@ -26,10 +26,11 @@
         "backgroundColor": "#FFFFFF"
       },
       "config": {
-          "googleMaps": {
-              "apiKey": "AIzaSyBB5VtbYNkoqHZD9uPohGNszVQnSsCo5ko"
-          }
-      }
+        "googleMaps": {
+          "apiKey": "AIzaSyBB5VtbYNkoqHZD9uPohGNszVQnSsCo5ko"
+        }
+      },
+      "package": "com.meetcshah19.ericktracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"
